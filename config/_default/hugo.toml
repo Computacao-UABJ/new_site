@@ -3,7 +3,8 @@
 # https://blowfish.page/docs/getting-started/
 
 theme = "blowfish"
-baseURL = "https://localhost:1313"
+baseURL = "https://computacao-uabj.github.io/new_site"
+# baseURL = "https://localhost:1313"
 defaultContentLanguage = "en"
 disableLanguages = [] #to allow translation work requiring shipping to production
 
