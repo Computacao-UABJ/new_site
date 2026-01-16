@@ -1,7 +1,7 @@
 languageCode = "pt-br"
 languageName = "Português (Brasil)"
-weight = 6
-title = "Blowfish"
+weight = 1
+title = "Engenharia da Computação UABJ"
 
 [params]
   displayName = "Português (Brasil)"
@@ -9,14 +9,14 @@ title = "Blowfish"
   rtl = false
   dateFormat = "2 de January de 2006"
   logo = "img/blowfish_logo_transparent.png"
-  description = "Um tema poderoso e leve para Hugo."
+  description = "Site oficial do curso de Engenharia da Computação da UABJ."
 
 [params.author]
-  name = "Blowfish"
+  name = "Coordenação de Engenharia da Computação UABJ"
+  email = "engenharia.computacao@ufrpe.br"
   image = "img/blowfish_logo.png"
-  headline = "Um tema poderoso e leve para Hugo."
-  bio = "Um tema poderoso e leve para Hugo."
+  headline = "Computação UABJ."
+  bio = "Coordenação de Engenharia da Computação UABJ."
   links = [
-    { x-twitter = "https://twitter.com/burufugu" },
-    { github = "https://github.com/nunocoracao/blowfish" },
+    { github = "https://https://github.com/Computacao-UABJ" },
   ]
